@@ -9,6 +9,9 @@ def anna(name = "товарищ Иванов", age = 21):
     print("Привет",name, "тебе", age)
 anna()
 anna(name = "Катя", age = 12)
+Class Men():
+    def ura():
+        print(ura)
 
     
     
