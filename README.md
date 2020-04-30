@@ -8,7 +8,7 @@ col ("товарищ Иванов", 12)
 def anna(name = "товарищ Иванов", age = 21):
     print("Привет",name, "тебе", age)
 anna()
-anna(name = "Катя", age = 12)
+anna(name = "Катя", age = 8)
 Class Men():
     def ura():
         print(ura)
